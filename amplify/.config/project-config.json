@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "projectName": "closedcaption",
   "version": "3.1",
@@ -14,4 +15,22 @@
   "providers": [
     "awscloudformation"
   ]
+=======
+{
+  "projectName": "closedcaption",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "react",
+    "config": {
+      "SourceDir": "src",
+      "DistributionDir": "build",
+      "BuildCommand": "npm.cmd run-script build",
+      "StartCommand": "npm.cmd run-script start"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+>>>>>>> 4c55cb2d505ce4bdac504a5f7d13390f8512316f
 }
