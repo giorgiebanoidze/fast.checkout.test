@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "auth": {
     "closedcaptionbcb7690d": {
@@ -8,4 +9,16 @@
       "customAuth": false
     }
   }
+=======
+{
+  "auth": {
+    "closedcaptionbcb7690d": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+>>>>>>> 4c55cb2d505ce4bdac504a5f7d13390f8512316f
 }

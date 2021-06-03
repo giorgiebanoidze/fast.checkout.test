@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 export const HTTP_SERVER = 'https://core-dev.sigcomp.com:4001';
 // export const AUTH_USER_TOKEN_KEY = 'CognitoIdentityServiceProvider.t5gc7qj7lljg00cll9mb7tap8.1ad18c9b-c31d-4f07-b448-f2b568b666d5.accessToken';
 export const AUTH_USER_TOKEN_KEY = 'ReactAmplify.TokenKey';
 export const SIGNATURE_PARAM = 'WQiOiJGYW5HRDhnSGZHRFhQcnhW';
+=======
+export const HTTP_SERVER = 'https://core-dev.sigcomp.com:4001';
+// export const AUTH_USER_TOKEN_KEY = 'CognitoIdentityServiceProvider.t5gc7qj7lljg00cll9mb7tap8.1ad18c9b-c31d-4f07-b448-f2b568b666d5.accessToken';
+export const AUTH_USER_TOKEN_KEY = 'ReactAmplify.TokenKey';
+export const SIGNATURE_PARAM = 'WQiOiJGYW5HRDhnSGZHRFhQcnhW';
+>>>>>>> 4c55cb2d505ce4bdac504a5f7d13390f8512316f
