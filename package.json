@@ -20,7 +20,10 @@
     "react-icons": "^4.2.0",
     "react-player": "^2.9.0",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "socket.io": "^2.2.0",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
