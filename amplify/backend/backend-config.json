@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "closedcaptionbcb7690d": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

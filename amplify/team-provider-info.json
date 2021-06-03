@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-closedcaption-dev-50124-authRole",
+      "UnauthRoleArn": "arn:aws:iam::302307366702:role/amplify-closedcaption-dev-50124-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::302307366702:role/amplify-closedcaption-dev-50124-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-closedcaption-dev-50124-deployment",
+      "UnauthRoleName": "amplify-closedcaption-dev-50124-unauthRole",
+      "StackName": "amplify-closedcaption-dev-50124",
+      "StackId": "arn:aws:cloudformation:us-east-2:302307366702:stack/amplify-closedcaption-dev-50124/2474ada0-b846-11eb-a9cd-06d17e9ef01a",
+      "AmplifyAppId": "d11bfjqag0ufp"
+    },
+    "categories": {
+      "auth": {
+        "closedcaptionbcb7690d": {
+          "userPoolId": "us-east-2_58SQDBlDE",
+          "userPoolName": "sigcompUserPool-dev",
+          "webClientId": "t5gc7qj7lljg00cll9mb7tap8",
+          "nativeClientId": "1d9vnfvgur00c79abj7pisu458"
+        }
+      }
+    }
+  }
+}
